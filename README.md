@@ -4,6 +4,9 @@
 
 [Node.js](https://nodejs.org/en/) needs to be installed to run the application.
 
+https://www.npmjs.com/
+https://macchiato-framework.github.io/docs/getting-started
+
 ### running in development mode
 
 run the following command in the terminal to install NPM modules and start Figwheel:
