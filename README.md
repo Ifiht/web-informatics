@@ -6,6 +6,7 @@
 
 https://www.npmjs.com/
 https://macchiato-framework.github.io/docs/getting-started
+https://figwheel.org/docs/reloadable_code
 
 ### running in development mode
 
