@@ -18,7 +18,9 @@
             [macchiato/lein-npm "0.6.4"]
             [lein-figwheel "0.5.19"]
             [lein-cljsbuild "1.1.7"]]
-  :npm {:dependencies [[source-map-support "0.4.6"]]
+  :npm {:dependencies [[source-map-support "0.4.6"]
+                       [sqlite3 "3.1.8"]
+                       [request "2.88.0"]]
         :write-package-json true}
   :source-paths ["src/server" "target/classes"]
   :target-path "target"
